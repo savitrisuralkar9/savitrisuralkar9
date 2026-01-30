@@ -3,7 +3,7 @@ With nearly 5+ years of experience in IT Managed Services.<br> I am focusing on 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savitri-suralakar-95116a19a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savitri-suralkar-95116a19a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savitrusuralkar9@gmail.com)
 
 # 💻 Tech Stack:
